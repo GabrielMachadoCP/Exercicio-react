@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Header = styled.header`
     background-color: lightblue;
-    height: 15vh;
+    height: 35vh;
     align-items: center;
 
     h1{
@@ -19,10 +19,11 @@ export const Header = styled.header`
 
 `
 export const Footer = styled.footer`
-    height: 7vh;
+    height: 15vh;
     text-align: center;
     background-color: blueviolet;
     padding: 5px;
+    align-items: center;
     
     p{
         color: white;

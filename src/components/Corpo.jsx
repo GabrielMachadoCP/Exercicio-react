@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 const DivCorpo = styled.div`
     background-color: lightgreen;
-    height: 30vh;
+    height: 50vh;
     padding: 40px;
 
     h2{
