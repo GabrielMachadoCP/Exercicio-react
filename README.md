@@ -1,4 +1,4 @@
-# Sorveteria - Projeto React + Vite
+# Sorveteria - Projeto React + Vite - 2023
 
 Este projeto é uma aplicação web de uma sorveteria desenvolvida com **React** e **Vite**. O objetivo do projeto é fornecer uma interface simples e interativa para os usuários visualizarem e escolherem diferentes sabores de sorvetes, além de fornecer detalhes sobre os produtos.
 
